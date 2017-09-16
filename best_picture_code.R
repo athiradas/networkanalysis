@@ -1,6 +1,3 @@
-### Group 5 
-### Best Picture 
-# Edward Facundo, Elizabeth Freudenberger, Lawrence Gadsden, Ramandeep Kaur, Lingzi Kong
 
 library(jsonlite)
 library(dplyr)
